@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is file 3 line 1
+=======
+
+This is file 3 line 2
+>>>>>>> ac90d09aa91a250aa2cddfc6257bb095aafe6f58
